@@ -1,0 +1,6 @@
+{
+  "name": "CBSE Class 10 Exam Portal",
+  "description": "Comprehensive CBSE Class 10 Exam Portal with Board Mocks, SST Map Trainer, Science Lab, Daily Motivation, and Focus Music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
